@@ -52,7 +52,7 @@ a:focus {
 .btn .svg-inline--fa, a.btn .svg-inline--fa {
   margin-right: 5px;
   position: relative;
-  top: -2px;
+  /* top: -2px; */
 }
 
 .btn:hover, a.btn:hover {
